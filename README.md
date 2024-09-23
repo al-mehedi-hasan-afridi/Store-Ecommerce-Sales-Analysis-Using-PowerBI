@@ -14,17 +14,17 @@
    - **Printers** generated the highest profit, followed by **Bookcases**, **Saree**, **Accessories**, and **Tables**.
 
 ### 4. Monthly Profit Trends:
-   - **April** and **March** were the best-performing months, with profits of over **5K**.
-   - A sharp decline was observed in **July**, while **August** saw a brief period of negative profit.
+   - **January**, **March** and **October** were the best-performing months, with profits of over **5K**.
+   - Decline was observed in **May**, **June**, **July**, and **December** , which indicates a brief period of negative profit.
 
 ### 5. Regional Performance:
    - **Maharashtra** led in terms of sales by state, followed by **Madhya Pradesh**, **Uttar Pradesh**, and **Delhi**.
   
 ### 6. Customer Insights:
-   - Top customers include **Hariprash**, **Madhavi**, and **Madan Mohan**, with purchases ranging up to **10K**.
+   - Top customers include **Hariprash**, **Madhavi**, and **Madan Mohan**, with purchases close to **10K**.
 
 ### 7. Payment Mode Insights:
    - **Cash on Delivery (COD)** is the most preferred payment method, making up **44%** of the transactions.
    - Other notable payment methods include **UPI (21%)**, **Debit Card (13%)**, and **Credit Card (12%)**.
 
-This dashboard provides a comprehensive view of sales performance by category, region, customer, and payment mode, helping identify top products, trends, and customer preferences.
+This dashboard provides a comprehensive view of sales performance by category, state, customer, and payment mode, helping identify top products, trends, and customer preferences.
